@@ -2,9 +2,11 @@ package com.iniciantes.java.tutorial;
 
 public class Pessoa {
 
-	private Strings nome;
+	// Atributos
 	
-	private int maxLivros;
+	private Strings nome; // Nome da Pessoa
+	
+	private int maxLivros; // Quantidade Maxima de Livros
 	
 	
 }
